@@ -629,11 +629,6 @@ Pull requests are welcome. For significant changes, open an issue first to discu
 - Wire it into `DashboardRenderer` with a new menu option
 - Add tests in a new `@Nested` class in `EngineTest.java`
 
----
-
-## License
-
-MIT License — free to use, modify, and distribute. See `LICENSE` file.
 
 ---
 
